@@ -15,7 +15,7 @@ from langchain.llms import Tongyi
 from langchain.embeddings import DashScopeEmbeddings
 
 # 去阿里云申请免费API Key：https://dashscope.console.aliyun.com/
-os.environ["DASHSCOPE_API_KEY"] = "sk-d0eaa9a45b7d4f888f8ddbf62a28a6e4"
+os.environ["DASHSCOPE_API_KEY"] = "api"
 
 # ===================== 配置 =====================
 BASE_URL = "https://www.fzu.edu.cn"
